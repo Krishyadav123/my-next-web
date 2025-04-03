@@ -2,7 +2,7 @@ import React from 'react'
 
 const Feature = () => {
   return (
-    <section className="w-full px-32 py-12 bg-gray-100">
+    <section className="w-full px-5 md:px-32 py-12 bg-gray-100">
         <div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="flex flex-col items-center text-center">
@@ -25,7 +25,7 @@ const Feature = () => {
               </div>
               <h3 className="text-lg font-bold mb-2">19 Years of Experience</h3>
               <p className="text-sm text-gray-600">
-                Hexafin, a leading loan consulting and Distribution Company has been helping people get bank loans at
+                Finance Gaze, a leading loan consulting and Distribution Company has been helping people get bank loans at
                 low rates.
               </p>
             </div>

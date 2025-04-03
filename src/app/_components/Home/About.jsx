@@ -6,11 +6,11 @@ import React from 'react'
 
 const About = () => {
   return (
-    <section className="w-full px-32 py-12 bg-white">
+    <section className="w-full px-5 lg:px-32 py-12 bg-white">
         <div >
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-10">HEXAFIN - NO. 1 LOAN CONSULTANTS & DIST.</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-10">Finance Gaze - NO. 1 LOAN CONSULTANTS & DIST.</h2>
 
-          <div className="flex flex-wrap gap-10 mb-8">
+          <div className="flex flex-wrap  md:gap-10 mb-8">
             <button className="px-6 py-3 text-sm font-medium border-b-2 border-amber-500 relative">
               Who we are
               <span className="absolute bottom-0 left-0 w-full h-0.5 bg-amber-500"></span>
@@ -35,8 +35,8 @@ const About = () => {
               <div className="prose max-w-none">
                 <p>
                   If you are searching the best & trusted <strong>loan consultants near you</strong> then you are at the
-                  right place. Hexafin Consultancy Private Limited is one of the leading companies in finance industry.
-                  We have been offering <strong>loan consultancy services</strong> from 19 years. Hexafin, currently
+                  right place. Finance Gaze Consultancy Private Limited is one of the leading companies in finance industry.
+                  We have been offering <strong>loan consultancy services</strong> from 19 years. Finance Gaze, currently
                   have 30 branches nationwide. We have partnered with 70+ Banks and Non-banking Financial Companies. It
                   means you will have options from 70+ banks & NBFCs to get you the best loan offer. We are trusted big
                   loan & financial consultants in India. We deal in Business Loan, Professional Loan, Personal Loan,
@@ -54,9 +54,9 @@ const About = () => {
                  <img src="https://www.hexafin.com/wp-content/uploads/2024/05/1692608296338.jpeg" alt="" />
                 </div>
                 <h3 className="text-xl font-bold">Mr. Sanjeev Kokru</h3>
-                <p className="text-sm mb-4">Founder & Director, Hexafin</p>
+                <p className="text-sm mb-4">Founder & Director, Finance Gaze</p>
                 <p className="text-sm text-center mb-4">
-                  Mr. Sanjeev Kokru, has a wealth of experience in the finance industry. He has driven Hexafin to
+                  Mr. Sanjeev Kokru, has a wealth of experience in the finance industry. He has driven Finance Gaze to
                   remarkable heights, pioneering cutting-edge solutions that redefine the landscape of financial
                   services.
                 </p>

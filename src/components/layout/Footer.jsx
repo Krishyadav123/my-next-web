@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
             <div className="col-span-1">
             <div className="relative h-10 mb-10 w-40">
-                  <img src="https://res.cloudinary.com/dhf8eyjee/image/upload/v1743671470/random%20images/jratmanib0b52o3usvx2.png" alt="Hexafin Logo" className="h-full w-full" />
+                  <img src="https://res.cloudinary.com/dhf8eyjee/image/upload/v1743671470/random%20images/jratmanib0b52o3usvx2.png" alt="Finance Gaze Logo" className="h-full w-full" />
                 </div>
               <p className="text-sm mb-4">
                 Partnering with over 70+ banks & NBFCs, we offer various loan products tailored to your needs. Our focus
@@ -35,7 +35,7 @@ const Footer = () => {
                   <Mail className="h-5 w-5 mt-0.5 text-amber-500" />
                   <div>
                     <div className="font-medium">Email</div>
-                    <div>enquire@hexafin.com</div>
+                    <div>enquire@FinanceGaze.com</div>
                   </div>
                 </li>
                 <li className="flex items-start gap-2">

@@ -3,7 +3,7 @@ import React from "react";
 
 const WhyWeAreBest = () => {
   return (
-    <section className="w-full px-32 py-12 bg-gray-50">
+    <section className="w-full px-5 lg:px-32 py-12 bg-gray-50">
       <div className="w-full h-full">
         <h2 className="text-3xl font-bold text-center mb-10">
           WHY WE ARE THE BEST
@@ -83,7 +83,7 @@ const WhyWeAreBest = () => {
             </div>
           </div>
 
-          <div className="max-h-[600px] flex flex-col gap-4 items-center justify-center">
+          <div className="max-h-[600px] overflow-hidden flex flex-col gap-4 items-center justify-center">
             <div className="w-full h-1/2 ">
               <img
                 src="https://www.hexafin.com/wp-content/uploads/2022/11/Untitled-design-16.jpg"
@@ -95,14 +95,14 @@ const WhyWeAreBest = () => {
               <div>
                 <img
                   src="https://www.hexafin.com/wp-content/uploads/elementor/thumbs/1-qphvjjxjk14mfbxxo325xyn61aaa2qfhlqh34sloo8.jpg"
-                  className="w-full rounded-md object-cover"
+                  className="w-full h-full rounded-md object-cover"
                   alt=""
                 />
               </div>
               <div>
                 <img
                   src="https://www.hexafin.com/wp-content/uploads/elementor/thumbs/1-qphvjjxjk14mfbxxo325xyn61aaa2qfhlqh34sloo8.jpg"
-                  className="w-full rounded-md object-cover"
+                  className="w-full h-full rounded-md object-cover"
                   alt=""
                 />
               </div>

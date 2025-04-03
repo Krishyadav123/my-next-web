@@ -9,8 +9,8 @@ const TopBarStrip = () => {
           <div className="flex justify-between items-center">
             <div className="flex items-center">
               <Mail className="h-4 w-4 mr-2" />
-              <a href="mailto:enquire@hexafin.com" className="text-sm">
-                enquire@hexafin.com
+              <a href="mailto:enquire@FinanceGaze.com" className="text-sm">
+                enquire@FinanceGaze.com
               </a>
             </div>
             <div className="flex items-center space-x-4">
